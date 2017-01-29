@@ -42,7 +42,7 @@ body{
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">E-village Aid</a>
+      <a class="navbar-brand" href="#">Hospital App</a>
     </div>
     <div>
       <ul class="nav navbar-nav">
@@ -56,7 +56,7 @@ body{
 <div class="row-margins row">
   <div  class="jumbotron col-md-5 col-xs-12 col-sm-12">
     <div class="text-center row">
-    <h2>Primary-Hospital</h2>
+    <h2>Patient-Login</h2>
     <hr>
      </div>
      <div class="text-center row">
@@ -66,7 +66,7 @@ body{
   <div class="col-md-2"></div>
   <div class="jumbotron col-md-5 col-xs-12 col-sm-12">
     <div class="text-center row">
-    <h2>Main-Hospital</h2>
+    <h2>Doctor-Login</h2>
     <hr>
      </div>
      <div class="text-center row">
