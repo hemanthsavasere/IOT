@@ -80,7 +80,7 @@ font-family: 'Montserrat', sans-serif;
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">E-village Aid</a>
+      <a class="navbar-brand" href="#">Hospital App</a>
     </div>
     <div>
       <ul class="nav navbar-nav">
@@ -93,7 +93,7 @@ font-family: 'Montserrat', sans-serif;
 <div class="col-md-offset-3 col-md-6">
 <form role=" form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
   <div class="form-group">
-    <label class="text-center city" for="login"><h3><b>Login-City</b></h3></label>
+    <label class="text-center city" for="login"><h3><b>Doctor Login</b></h3></label>
    
   </div>
   <div class="text-center form-group">
