@@ -72,7 +72,7 @@ form.ng-pristine.ng-valid{
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">E-village Aid</a>
+      <a class="navbar-brand" href="#">Hospital Management</a>
     </div>
     <div>
       <ul class="nav navbar-nav">
@@ -84,7 +84,7 @@ form.ng-pristine.ng-valid{
 <div class="col-md-offset-3 col-md-6">
 <form role=" form" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
   <div class="form-group">
-    <label for="login"><h3>Login-Village</h3></label>
+    <label for="login"><h3>Patient Login</h3></label>
    
   </div>
   <div class="form-group">
